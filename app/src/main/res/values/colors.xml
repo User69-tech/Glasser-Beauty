@@ -1,0 +1,11 @@
+<resources>
+    <color name="canvas">#F3F0FA</color>
+    <color name="surface">#FFFCFF</color>
+    <color name="text_primary">#211B31</color>
+    <color name="text_secondary">#655E76</color>
+    <color name="accent">#8064D8</color>
+    <color name="wall_tint">#45F7F0FF</color>
+    <color name="glass_top">#D9FFFFFF</color>
+    <color name="glass_bottom">#A6F3EEFF</color>
+    <color name="glass_stroke">#E6FFFFFF</color>
+</resources>
