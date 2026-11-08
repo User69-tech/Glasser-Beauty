@@ -9,6 +9,8 @@ Personalisation options include light glass, Midnight, and Rose themes, compatib
 
 Beauty settings provide controls for the app drawer, themes, icons, dock, and hidden apps, along with an About Creator section crediting Intisar Rahman. Glasser Beauty is a standalone launcher project with its own Android package, built separately from the original Glasser launcher. It is designed for Android phones and can be installed as a home app after building the project for everyday phone use.
 
+**Minimum Android version: Android 8.0 (Oreo), API level 26.**
+
         
 
 ## Build
